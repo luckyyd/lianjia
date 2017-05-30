@@ -1,0 +1,31 @@
+{
+	"minhang": [{
+			"direction": "(进门) 西",
+			"totalPrice": "1580",
+			"room": "4室2厅",
+			"district": "浦江",
+			"space": "430平米",
+			"floor": "地上1层",
+			"community": "上海市闵行区新浦江城（浦驰路1659弄） ",
+			"otherInfo": "新浦江城（浦驰路1659弄） 4室2厅 430平米",
+			"decoration": "精装",
+			"href": "http://sh.lianjia.com/chengjiao/sh4518161.html",
+			"date": "2017.03.01",
+			"unitPrice": "单价36697"
+		},
+		{
+			"direction": "朝北",
+			"totalPrice": "130",
+			"room": "1室1厅",
+			"district": "浦江",
+			"space": "57平米",
+			"floor": "高区/7层",
+			"community": "上海市闵行区万科早城（一期） ",
+			"otherInfo": "万科早城（一期） 1室1厅 57平米",
+			"decoration": "精装",
+			"href": "http://sh.lianjia.com/chengjiao/sh4412270.html",
+			"date": "2017.03.01",
+			"unitPrice": "单价22739"
+		}
+	]
+}
